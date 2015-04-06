@@ -1,0 +1,9 @@
+diff --git a/README.md b/README.md
+index 8c47a6f..33fe901 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,4 @@
+ # pgk
++This is pgk repo.
++There is a sample_app directory which has a hello.c file.
++There is another file.
